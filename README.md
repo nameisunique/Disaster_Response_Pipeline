@@ -1,7 +1,14 @@
 # Disaster Response Pipeline Project
 
-![Floating](https://media.giphy.com/media/853jNve3ljqrYrcSOK/giphy.gif)
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Floating Bin](https://media.giphy.com/media/853jNve3ljqrYrcSOK/giphy.gif)
+
+**Project Overview**
+
+This project will analyze disaster data from Figure Eight to build a model for an API that classifies disaster messages.
+
+We were provided a data set containing real messages that were sent during disaster events. Using this data set as well as a dataset describing categories, we create a machine learning pipeline to categorize these events so that you can send the messages to an appropriate disaster relief agency.
+
+We also use a web app where an emergency worker can input a new message and get classification results in several categories. The web app will also display visualizations of the data. 
 
 ### Instructions:
 1. Run the following commands in the project's root directory to set up your database and model.
