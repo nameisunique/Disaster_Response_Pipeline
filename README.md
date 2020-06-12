@@ -1,5 +1,6 @@
 # Disaster Response Pipeline Project
 
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 ### Instructions:
 1. Run the following commands in the project's root directory to set up your database and model.
