@@ -1,5 +1,6 @@
 # Disaster Response Pipeline Project
 
+![Floating](https://media.giphy.com/media/853jNve3ljqrYrcSOK/giphy.gif)
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 ### Instructions:
